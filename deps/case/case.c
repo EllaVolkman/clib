@@ -1,12 +1,12 @@
 
 //
-// case.c
+//#case.c
 //
 // Copyright (c) 2014 Stephen Mathieson
 // MIT licensed
 //
 
-#include <stdio.h>
+ include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
@@ -52,3 +52,4 @@ case_camel(char *str) {
 
   return str;
 }
+ 
