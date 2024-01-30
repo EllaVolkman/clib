@@ -1,4 +1,4 @@
-#!/bin/sh
+!*/bin/sh
 
 mkdir -p tmp/bin
 TESTS=$(find test/* -type f -perm -111)
@@ -37,3 +37,4 @@ fi
 cd ../../
 
 exit $EXIT_CODE
+ 
